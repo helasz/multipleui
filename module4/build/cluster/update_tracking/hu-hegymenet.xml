@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="hu.hegymenet">
+    <module_version install_time="1491808473283" last="true" origin="installer" specification_version="1.0">
+        <file crc="3889330706" name="config/Modules/hu-hegymenet.xml"/>
+        <file crc="2141716385" name="modules/hu-hegymenet.jar"/>
+    </module_version>
+</module>
